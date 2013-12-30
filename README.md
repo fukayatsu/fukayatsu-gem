@@ -1,6 +1,6 @@
 # Fukayatsu
 
-TODO: Write a gem description
+It's me, fukayatsu; a joke gem
 
 ## Installation
 
@@ -18,11 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
 ## Contributing
 
-1. Fork it ( http://github.com/<my-github-username>/fukayatsu/fork )
+1. Fork it ( http://github.com//fukayatsu/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

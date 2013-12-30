@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Fukayatsu::VERSION
   spec.authors       = ["fukayatsu"]
   spec.email         = ["fukayatsu@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{It's me, fukayatsu; a joke gem}
+  spec.description   = %q{It's me, fukayatsu; a joke gem}
   spec.homepage      = ""
   spec.license       = "MIT"
 
