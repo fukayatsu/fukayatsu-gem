@@ -1,5 +1,10 @@
 require "fukayatsu/version"
 
 module Fukayatsu
-  # Your code goes here...
+  class Core
+    def initialize
+      @name = 'fukayatsu'
+    end
+    attr_reader :name
+  end
 end
