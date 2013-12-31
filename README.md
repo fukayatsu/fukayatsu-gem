@@ -6,6 +6,9 @@
 
 It's me, fukayatsu; a joke gem
 
+### Why build is failing?
+see [detail](https://travis-ci.org/fukayatsu/fukayatsu-gem).
+
 ## Installation
 
 Add this line to your application's Gemfile:
