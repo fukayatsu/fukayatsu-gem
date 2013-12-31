@@ -1,5 +1,9 @@
 # Fukayatsu
 
+[![Build Status](https://travis-ci.org/fukayatsu/fukayatsu-gem.png?branch=master)](https://travis-ci.org/fukayatsu/fukayatsu-gem)
+[![Coverage Status](https://coveralls.io/repos/fukayatsu/fukayatsu-gem/badge.png?branch=master)](https://coveralls.io/r/fukayatsu/fukayatsu-gem?branch=master)
+[![Code Climate](https://codeclimate.com/github/fukayatsu/fukayatsu-gem.png)](https://codeclimate.com/github/fukayatsu/fukayatsu-gem)
+
 It's me, fukayatsu; a joke gem
 
 ## Installation
