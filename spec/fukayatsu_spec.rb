@@ -11,8 +11,5 @@ describe Fukayatsu::Core do
   it { expect(subject.love_sushi?).to   be true }
   it { expect(subject.love_php?).to     be false }
   it { expect(subject.have_android?).to be true }
-  it {
-    pending "(´･_･`)"
-    expect(subject.have_girlfriend?).to be true
-  }
+  it { expect(subject.have_girlfriend?).to be true }
 end
